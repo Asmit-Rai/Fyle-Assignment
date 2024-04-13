@@ -29,10 +29,11 @@ The main functionalities of the application are implemented in JavaScript:
 - **Calculation:** Once all inputs are valid, the application calculates the taxable income and tax amount based on the provided formula.
 ## Screenshots
 
-![Screenshot of the Income Tax Calculator](screenshot1.png)
-![Screenshot of the Income Tax Calculator](screenshot2.png)
-![Screenshot of the Income Tax Calculator](screenshot3.png)
-![Screenshot of the Income Tax Calculator](screenshot4.png)
+![Screenshot of the Income Tax Calculator](Screenshot1.png)
+![Screenshot of the Income Tax Calculator](Screenshot2.png)
+![Screenshot of the Income Tax Calculator](Screenshot3.png)
+![Screenshot of the Income Tax Calculator](Screenshot4.png)
+
 
 ## Technologies Used
 
